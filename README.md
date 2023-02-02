@@ -19,7 +19,9 @@
 - To use our detection model, run:
 ```
 python detect.py --weights models/best.pt --conf 0.2 --source test_images
-## Authors
+
+
+## Authors:-
 
 - [@shreyash bhimanwar](https://www.github.com/octokatherine)
 - [@Onkar Viralekar](https://github.com/onkar-1432)
